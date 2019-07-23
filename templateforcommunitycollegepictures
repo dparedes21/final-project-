@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="csu.css">
+<script src="UC.js"></script>
+</head>
+
+<body>
+  <body>
+    <div class="navbar">
+<a href="collegewebsite.html"">Home</a>
+<a href="aboutus.html">About Us</a>
+<div class="dropdown">
+  <button class="dropbtn">Colleges
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content">
+    <a href="UC.html">UC's</a>
+    <a href="csu.html">CSU's</a>
+    <a href="#">Private</a>
+    <a href="#">Community</a>
+  </div>
+</div>
+</div>
+
+  <div class="title">
+  <h1>California State Universities<h1>
+    </div>
+
+
+
+<section id="photos">
+
+
+<ul>
+<li class= "img_container">
+
+  <a href= "SanDiego.html"><img src="sandiego.jpg" alt="San Diego" ></a>
+</li>
+<li class="img_container">
+
+  <a href="sb.html"><img src="sanbert.jpg" alt="San Bernardino" ></a>
+</li>
+<li class="img_container">
+      <a href= "monterey.html"><img src="monterey.jpg" alt="Monterey Bay"></a>
+</li>
+<li class="img_container">
+
+        <a href="fresno.html"><img src="fresno.jpg" alt="Fresno State" ></a>
+
+        </li>
+        <li class="img_container">
+          <a href=""><img src="sf.jpg" alt="SF State"></a>
+          </li>
+
+            <li class="img_container">
+              <a href=""><img src="slo.jpg" alt="Cal Poly slo"></a>
+              </li>
+              <li class="img_container">
+                <a href=""><img src="sc.jpg" alt="Sacramento State"></a>
+                </li>
+                <li class="img_container">
+                  <a href="sonoma.html"><img src="sonoma.jpg" alt="Sonoma State"></a>
+                  </li>
+                  <li class="img_container">
+                    <a href="fullerton.html"><img src="f.jpg" alt="Fullerton"></a>
+                    </li>
+                    <li class="img_container">
+                      <a href="losangeles.html"><img src="la.jpg" alt="Los Angeles"></a>
+                      </li>
+                      <li class="img_container">
+                        <a href="northridge.html"><img src="n.jpg" alt="Northridge"></a>
+                        </li>
+                        <li class="img_container">
+                          <a href="longbeach.html"><img src="lb.jpg" alt="Long Beach"></a>
+                          </li>
+                          <li class="img_container">
+                            <a href="chico.html"><img src="chico.jpg" alt="Chico"></a>
+                            </li>
+                            <li class="img_container">
+                              <a href=""><img src="channel.jpg" alt="Channel Islands"></a>
+                              </li>
+                              <li class="img_container">
+                                <a href=""><img src="dt.jpg" alt="Dominguez Hills"></a>
+                                </li>
+                                <li class="img_container">
+                                  <a href=""><img src="h.jpg" alt="Humboldt"></a>
+                                  </li>
+                                  <li class="img_container">
+                                    <a href=""><img src="cal.jpg" alt="Cal Poly Pomona"></a>
+                                    </li>
+                                    <li class="img_container">
+                                      <a href=""><img src="marcos.jpg" alt="San Marcos"></a>
+                                      </li>
+                                      <li class="img_container">
+                                        <a href=""><img src="stanis.jpg" alt="Stanislaus"></a>
+                                        </li>
+                                        <li class="img_container">
+                                          <a href="caleastbay.html"><img src="EastBay.jpg" alt="Cal East Bay"></a>
+                                          </li>
+                                          <li class="img_container">
+                                            <a href="maritime.html"><img src="calm.jpg" alt="Maritime"></a>
+                                            </li>
+                                            <li class="img_container">
+                                              <a href="sanjose.html"><img src="sj.jpg" alt="San Jose"></a>
+                                              </li>
+
+                    </ul>
+        </section>
+
+</body>
+
+</html>
